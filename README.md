@@ -106,5 +106,7 @@ Este projeto está licenciado sob a licença [MIT](LICENSE).
 ## ❤️ Agradecimentos
 
 Agradeço à comunidade de código aberto e aos criadores das bibliotecas utilizadas por tornarem a inteligência artificial mais acessível e empolgante!
+
 Agradeço á Instrutora Mirla Costa: Linkedin(https://www.linkedin.com/in/mirla-costa/)
+
 Agredeço à Alura
